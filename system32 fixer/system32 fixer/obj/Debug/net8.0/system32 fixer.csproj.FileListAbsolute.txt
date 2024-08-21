@@ -1,0 +1,14 @@
+C:\Users\valen\Desktop\my stuff\system32 fixer\system32 fixer\obj\Debug\net8.0\system32 fixer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valen\Desktop\my stuff\system32 fixer\system32 fixer\obj\Debug\net8.0\system32 fixer.AssemblyInfoInputs.cache
+C:\Users\valen\Desktop\my stuff\system32 fixer\system32 fixer\obj\Debug\net8.0\system32 fixer.AssemblyInfo.cs
+C:\Users\valen\Desktop\my stuff\system32 fixer\system32 fixer\obj\Debug\net8.0\system32 fixer.csproj.CoreCompileInputs.cache
+C:\Users\valen\Desktop\my stuff\system32 fixer\system32 fixer\bin\Debug\net8.0\system32 fixer.exe
+C:\Users\valen\Desktop\my stuff\system32 fixer\system32 fixer\bin\Debug\net8.0\system32 fixer.deps.json
+C:\Users\valen\Desktop\my stuff\system32 fixer\system32 fixer\bin\Debug\net8.0\system32 fixer.runtimeconfig.json
+C:\Users\valen\Desktop\my stuff\system32 fixer\system32 fixer\bin\Debug\net8.0\system32 fixer.dll
+C:\Users\valen\Desktop\my stuff\system32 fixer\system32 fixer\bin\Debug\net8.0\system32 fixer.pdb
+C:\Users\valen\Desktop\my stuff\system32 fixer\system32 fixer\obj\Debug\net8.0\system32 fixer.dll
+C:\Users\valen\Desktop\my stuff\system32 fixer\system32 fixer\obj\Debug\net8.0\refint\system32 fixer.dll
+C:\Users\valen\Desktop\my stuff\system32 fixer\system32 fixer\obj\Debug\net8.0\system32 fixer.pdb
+C:\Users\valen\Desktop\my stuff\system32 fixer\system32 fixer\obj\Debug\net8.0\system32 fixer.genruntimeconfig.cache
+C:\Users\valen\Desktop\my stuff\system32 fixer\system32 fixer\obj\Debug\net8.0\ref\system32 fixer.dll
